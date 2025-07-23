@@ -12,3 +12,5 @@ node_modules/
 /nutricheck-backend/.expo/
 /nutricheck-backend/__pycache__/
 .expo
+
+nutricheck-firebase-adminsdk.js
